@@ -1,0 +1,3 @@
+An AC DMX512 dimmer board that can dim 6 resistive loads.
+
+WARNING: This design is dangerous, somewhat untested, and uses line voltage. Do not build. For reference purposes only.
